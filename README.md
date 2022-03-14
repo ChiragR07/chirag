@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smokerCR
 - 👀 I’m interested in Web Dev  
 - 🌱 I’m currently learning React JS
-- 📫 cr.iiitg@gmail.com
+- 📫 thechiragrastogi@gmail.com
 
 <!---
 smokerCR/smokerCR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
